@@ -1,17 +1,3 @@
-<p align="center">
-  <a href="https://www.accordproject.org/projects/cicero">
-    <img src="./cicero.png" alt="Cicero logo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/accordproject/cicero?color=bright-green" alt="GitHub license"></a>
-  <a href="https://badge.fury.io/js/%40accordproject%2Fcicero-cli"><img src="https://badge.fury.io/js/%40accordproject%2Fcicero-cli.svg" alt="npm version"></a>
-  <a href="https://accord-project-slack-signup.herokuapp.com/">
-    <img src="https://img.shields.io/badge/Accord%20Project-Join%20Slack-blue" alt="Join the Accord Project Slack"/>
-  </a>
-</p>
-
 ## Introduction
 
 Cicero allows you to define natural language contract and clause templates that can be executed by a computer. These could be relatively simple things like `if the goods are more than {{DAYS}} late, then notify the supplier of the goods, with the message {{MESSAGE}}.` or more elaborate natural language and logic such as computing interest on a loan, or calculating penalties based on IoT sensor readings.
