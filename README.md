@@ -76,3 +76,4 @@ Copyright 2018-2019 Clause, Inc. All trademarks are the property of their respec
 [creativecommons]: http://creativecommons.org/licenses/by/4.0/
 
 [apspec]: https://docs.accordproject.org/docs/accordproject-template.html
+IF you have some questions, feel free to reach out.
